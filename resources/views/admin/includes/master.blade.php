@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="host" content="{{URL::to('/')}}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{URL::to('/public/assets/')}}/images/favicon.png">
-    <title>@yield('title') - Super Admin -  DNP LeadManager</title>
+    <title>@yield('title') - Super Admin -  DNP Designblow</title>
     
     @include('admin.includes.style')
     @yield('addStyle')

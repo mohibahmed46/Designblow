@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="host" content="{{URL::to('/')}}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{URL::to('/public/assets/')}}/images/favicon.png">
-    <title>@yield('title') - Data Entry Agent - DNP LeadManager</title>
+    <title>@yield('title') - Data Entry Agent - DNP Designblow</title>
     
     @include('agent1.includes.style')
     @yield('addStyle')
