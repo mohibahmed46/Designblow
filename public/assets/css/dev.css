@@ -1,0 +1,173 @@
+.navbar-brand img {
+    height: 45px;
+}
+.login-heading {
+    text-align: center;
+    font-weight: 900;
+    border-bottom: 1px solid;
+}
+.table thead th, .table tfoot th {
+    font-size: 14px;
+    color: #777;
+}
+.btn i {
+    color: #fff;
+}
+#leadDetailModalBody img {
+    margin: auto;
+    width: 300px;
+}
+
+nav.flex.items-center.justify-between .hidden {
+    width: 100% !important;
+}
+
+nav.flex.items-center.justify-between .hidden div:nth-child(2) {
+    float: right;
+}
+
+nav.flex.items-center.justify-between div {
+    display: inline-block;
+}
+
+a.relative.inline-flex.items-center.px-4.py-2.text-sm.font-medium.text-gray-700.bg-white.border.border-gray-300.leading-5.rounded-md.hover\:text-gray-500.focus\:outline-none.focus\:ring.ring-gray-300.focus\:border-blue-300.active\:bg-gray-100.active\:text-gray-700.transition.ease-in-out.duration-150 {
+    display: none;
+}
+
+span.relative.inline-flex.items-center.px-4.py-2.text-sm.font-medium.text-gray-500.bg-white.border.border-gray-300.cursor-default.leading-5.rounded-md {
+    display: none;
+}
+
+span.relative.inline-flex.items-center.px-4.py-2.-ml-px.text-sm.font-medium.text-gray-500.bg-white.border.border-gray-300.cursor-default.leading-5 {
+    background-color: #1976d2 !important;
+    border-radius: 3px;
+    color: white;
+}
+
+a.relative.inline-flex.items-center.px-4.py-2.-ml-px.text-sm.font-medium.text-gray-700.bg-white.border.border-gray-300.leading-5.hover\:text-gray-500.focus\:z-10.focus\:outline-none.focus\:ring.ring-gray-300.focus\:border-blue-300.active\:bg-gray-100.active\:text-gray-700.transition.ease-in-out.duration-150 {
+    /*background-color: #5c4ac7 !important;*/
+    background-color: #fff !important;
+    color: #a9a9a9;
+    border-radius: 3px;
+}
+
+a.relative.inline-flex.items-center.px-2.py-2.text-sm.font-medium.text-gray-500.bg-white.border.border-gray-300.rounded-l-md.leading-5.hover\:text-gray-400.focus\:z-10.focus\:outline-none.focus\:ring.ring-gray-300.focus\:border-blue-300.active\:bg-gray-100.active\:text-gray-500.transition.ease-in-out.duration-150 {
+    background-color: white !important;
+    border-radius: 3px;
+    color: #a9a9a9;
+}
+
+a.relative.inline-flex.items-center.px-2.py-2.-ml-px.text-sm.font-medium.text-gray-500.bg-white.border.border-gray-300.rounded-r-md.leading-5.hover\:text-gray-400.focus\:z-10.focus\:outline-none.focus\:ring.ring-gray-300.focus\:border-blue-300.active\:bg-gray-100.active\:text-gray-500.transition.ease-in-out.duration-150 {
+    background-color: white !important;
+    color: #a9a9a9;
+    border-radius: 3px;
+}
+
+.w-5{
+        /*display: none;*/
+        width: 20px;
+    }
+
+
+#leadDetailModalBody button{
+    float: right;
+}
+
+.history{
+    border: 1px solid #ced4da;
+    padding: 15px 15px 0px 15px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.p-one b {
+    font-weight: bold;
+    font-size: 13px;
+}
+.p-one {
+    font-size: 11px;
+}
+
+.history p{
+    margin-bottom: 5px;
+}
+
+.remarks-body .modal-body {
+    margin: 0px;
+}
+
+.remarks-body .modal-body h3{
+    color: #7f63f4;
+}
+
+.history-info{
+    padding: 15px 15px 0px 15px;
+}
+
+.Sample-file a {
+    float: right;
+}
+
+#pending-marked-btn{
+   /* float: left;
+    margin-bottom: 10px;*/
+}
+#pending-remarks-btn{
+    float: left;
+    /*margin-bottom: 10px;*/
+    margin-right: 5px;
+} 
+
+.legend_div ul li{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 40px;
+}
+.legend_div ul li div {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+.legend_div {
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+.legend_div p {
+    display: initial;
+    font-size: 12px;
+}
+
+.legend_div ul{
+        margin-bottom: 0rem;
+        padding: 0px;
+}
+
+.user-analytics, #user-analytics{
+    height: 100% !important;
+}
+
+.leads-analytics, #leads-analytics{
+    height: 100% !important;
+    padding-bottom: ;
+}
+
+#chart3 {
+    position: absolute;
+    bottom: 120px;
+}
+.mail-contnet label {
+    position: absolute;
+    bottom: -7px;
+    right: 9px;
+}
+
+.mail-contnet {
+    position: relative;
+}
+.upcommingFollowTray {
+    display: none;
+}
